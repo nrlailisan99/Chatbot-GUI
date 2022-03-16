@@ -11,7 +11,9 @@ After that run these files in order:
 4. chat
 5. app
 
+
+
 Code sources:
-1. system: https://www.youtube.com/c/PythonEngineer and https://www.youtube.com/c/TechWithTim
-2. gui: https://www.youtube.com/c/PythonEngineer
-3. json file: https://www.youtube.com/c/TechWithTim
+1. System: https://www.youtube.com/c/PythonEngineer and https://www.youtube.com/c/TechWithTim
+2. Gui: https://www.youtube.com/c/PythonEngineer
+3. Json file: https://www.youtube.com/c/TechWithTim
